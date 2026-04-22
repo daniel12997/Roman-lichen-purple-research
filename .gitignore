@@ -1,0 +1,16 @@
+# Pipeline scratch — stage2/3/4/6 artifacts, broader-scope draft,
+# shellfish-context PDF archive. Regenerable from the committed deliverable
+# + INDEX.md + PROGRESS.md; only useful mid-session.
+.work/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
