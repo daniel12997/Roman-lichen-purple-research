@@ -276,17 +276,110 @@ Cambridge Botanical Handbooks. Public domain; Project Gutenberg 61616; Internet 
 
 ## Primary Ancient Texts
 
-Brief entries focused on lichen-relevant passages. Use standard Loeb editions or translations listed below.
+Entries focused on lichen-relevant passages, grouped by tradition. No ancient author uses the word "orchil" or "orseille" — those are medieval terms first attested in the 14th century (Kok 1966). Ancient authors use Greek *phykos* / Latin *fucus* (both ambiguous between alga, lichen, and cosmetic pigment) and the narrower *phykos thalassion* ("sea-phycos"). The identification of any of these passages with *Roccella*-type lichen is a modern philological inference (Kok 1966, Smith 1921), not an ancient claim. Passages are flagged accordingly. See the Stage 8 primary-source report at `.work/stage8/primary-sources-report.md` for full passage texts, edition details, and verification notes.
 
-#### Pliny the Elder — *Natural History*, trans. H. Rackham et al., Loeb Classical Library
+### Greek and Latin textile / dye passages
 
-Key lichen passage: **Book 13.135–136** (NH XIII.135–136) — Pliny distinguishes *phycos* (a shrub) from *alga* (a herbaceous sea-plant) and notes that Cretan rock-growing *phycos* was used for a purple dye. Kok (1966) argues this refers to *Roccella*-type lichen, not a true alga; Smith (1921) endorses the identification but without detailed philological engagement. **Epistemic caveat:** Pliny does not himself make the lichen-vs-alga biological identification; the *Roccella* reading is a modern philological inference, and the underlying Pliny passage is in Loeb L370 — not held in this corpus, so claims about NH XIII.136 rest on secondary literature rather than direct audit. A useful internal control: at **NH 9.131** Pliny uses *alga* unambiguously for seaweed (murex *pelagia* "fed on seaweed"), which is at least consistent with Kok's reading that *phycos* in NH 13 refers to something distinct. Related passage at **NH 26.103** (Loeb L393, now held; note: conventionally cited as "26.66" in some older scholarship — the chapter/section numbering varies by edition, but the "three kinds of *phycos thalassion* with curly-leaved Cretan type used as a ground-colour for murex" passage is at §103 in Jones's Loeb) gives a three-way typology of *phycos thalassion* paralleling Dioscorides IV.98, with the "curly-leaved" Cretan type used as a "ground-colour for murex" — the most direct ancient attestation that *phycos* (lichen or alga) was used as a bottom dye beneath Tyrian. Also: **Book 9.102–140** covers murex purple at length — the moral framing of luxury in the *Naturalis Historia* opens at §103 ("what connexion is there between the sea and our clothing?"), followed by the anatomy of the dye gland, the preparation process, geographical quality rankings (Tyre / Meninx / Gaetulia / Laconia per 9.127), the Cornelius Nepos price-history of fashionable shades, and the elaborate adulterating combinations that are the essential context for understanding what orchil imitated; **Book 35.44–46** treats *purpurissum* (purple painter's pigment lake made by steeping silversmithing earth in purple dye — *not* a textile dye). Internet Archive scans of out-of-copyright Loeb volumes (Books 8–11, Loeb L353; Books 33–35, Loeb L394). See the Stage 8 primary-source report in `.work/stage8/` for the full text of NH 13.135–136 and NH 26.66 with Wikisource/Attalus URLs.
+#### Theophrastus — *Historia Plantarum* (c. 350–287 BCE), HP 4.6.5; trans. A. Hort, Loeb Classical Library 79 (1916)
 
-<https://archive.org>
+HP 4.6.5 (proposed citation; precise Hort page reference requires consultation of LCL 79 vol. II) describes a coastal plant (*phykos*) growing on the rocks of Crete, used for dyeing wool, whose colour is praised as surpassing Tyrian shellfish purple in brilliance. Theophrastus distinguishes three types; the type with "curly" or "crispy" leaves is the Cretan dyeing plant. The physical description — rocky-coast shrub, distinct from flat or ribbon-like herbaceous seaweed — is the primary basis for Kok's (1966) and Smith's (1921) identification with *Roccella tinctoria*; the identification is contested and the term *phykos* was not taxonomically precise in Greek usage. **Corpus flag:** the Internet Archive scan downloaded as `research_documents/Theophrastus_HP_Loeb_L79_books_4-5.pdf` is mislabelled — it actually contains Books VI–IX, not Books IV–V. HP 4.6.5 therefore cannot be verified directly from this corpus; the open-access scan at the URL below (Hort vol. II, IA identifier enquiryintoplant02theouoft) is the correct source for Books 4–5.
 
-#### Dioscorides, Pedanius — *De Materia Medica*, trans. Lily Y. Beck (2005; 3rd rev. ed.)
+<https://archive.org/details/enquiryintoplant02theouoft>
 
-Olms-Weidmann, *Altertumswissenschaftliche Texte und Studien* 38. Key passage: **DM IV.98** in Beck / Wellmann (alternately numbered IV.99 or IV.100 in other editions — Osbaldeston's 2000 public-domain translation uses IV.100) on *phykos thalassion* ("sea-plant/sea-lichen") distinguishes three varieties — broad-leafed, reddish, and curly-leafed (the Cretan type used to dye cloth) — paralleling Pliny NH 26.103. The *Roccella*-type-lichen identification is proposed in Kok 1966 and Smith 1921 primarily for Pliny and Theophrastus; whether Dioscorides's parallel passage supports the same reading is an open philological question those works do not directly adjudicate. Beck's translation is the only complete modern English rendering, based on Max Wellmann's authoritative Greek edition (1906–1914); essential primary-source reference for the *fucus*/*phycos* identification debate. Book.
+#### Pliny the Elder — *Naturalis Historia* (c. 77–79 CE); trans. H. Rackham / W. H. S. Jones, Loeb Classical Library
+
+**Umbrella entry covering four volumes, each locally held.** The orchil-relevant passages span three books:
+
+- **NH 13.135–136** (Loeb L370; `research_documents/Pliny_NH_Loeb_L370_books_12-16.pdf`). Chapter XLVIII "Phycos, Prason, or Zoster." Pliny states explicitly that "*phycos* is a shrub" (*frutex*) whereas "our word *alga* denotes a herbaceous sea-plant" — the terminological distinction between shrub and herb is the cornerstone of the lichen identification argument (Kok 1966 p. 249; Smith 1921 p. 191). He then adds: "The *phycos* growing on rocks round the island of Crete is also used for a purple dye; the most approved kind being that growing on the northern side of the island." Rock-growing habit and a north-facing exposure preference are consistent with known *Roccella tinctoria* ecology. Identification CONTESTED; the strongest passage for the lichen reading. Open via Wikisource and Attalus (see URLs below).
+- **NH 26.103** (Loeb L393; `research_documents/Pliny_NH_Loeb_L393_books_24-27.pdf`; variously cited as "26.66" in editions with different chapter/section numbering). In a medical context, Pliny distinguishes three types of *phycos thalassion* matching Dioscorides DM IV.98 almost exactly: (1) broad-leafed, (2) reddish, (3) curly-leafed Cretan type — described as "used as a ground-colour for the purple of the murex." This "ground-colour" function (*fucus marinus qui sub murice sternitur*) is the most important dye-chemistry statement in Pliny for orchil interpretation: it positions *phycos* as a base dye applied beneath Tyrian, exactly the role Kok (1966) reconstructs for orchil. Identification CONTESTED but this is the passage with the highest confidence for the lichen reading.
+- **NH 22.3** (Loeb L392; `research_documents/Pliny_NH_Loeb_L392_books_20-23.pdf`). Notes that "Transalpine Gaul can produce with vegetable dyes Tyrian purple, oyster purple, and all other colours." No specific plant is named; *phycos* and *fucus* do not appear. This passage gives context for plant-based purple substitution across the Roman world but does NOT identify orchil or lichen. **Bibliographic correction:** an earlier version of this entry cited "Book 22.3 (fucus marinus)" — the Stage 8 report confirms this is a conflation; the *fucus marinus* / *phykos thalassion* passages are in Books 13 and 26, not Book 22.
+- **NH 35.44–46** (Loeb L394; `research_documents/Pliny_NH_Loeb_L394_books_33-35.pdf`). Treats *purpurissum* — a painter's pigment lake made by steeping chalk in a murex-dye vat — and notes that it "combines most easily with *hysginum* and madder." This is a pigment, not a textile dye, and neither *hysginum* nor *purpurissum* is identified with orchil in any modern scholarly consensus. Context for the multi-colorant approach to purple painting; NOT a lichen passage. Also: **NH 9.102–140** (Loeb L353; `research_documents/Pliny_NH_Loeb_L353_books_8-11.pdf`) covers murex purple in detail — geographical quality rankings, price history, adulterating combinations — and is the essential backdrop for understanding what orchil competed with and imitated.
+
+Open digital texts for the *phycos* passages:
+
+<https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_13>
+
+<https://www.attalus.org/pliny/hn13b.html>
+
+<https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz)/Book_26>
+
+#### Dioscorides, Pedanius — *De Materia Medica* (1st c. CE), DM IV.98; trans. T. A. Osbaldeston (2000) / L. Y. Beck (2005)
+
+Key passage: **DM IV.98** in Wellmann's Greek edition / Beck's English translation (alternately IV.99 or IV.100 in other editions; Osbaldeston uses IV.100). Dioscorides distinguishes three varieties of *phykos thalassion*: (1) broad-leafed, (2) inclining to red, (3) the curly-leafed Cretan type (*phyllois oulon*) used to dye garments — noting also its use as a ground colour preparatory to shellfish-purple dyeing and its medicinal applications (joint diseases, gout). The three-part typology corresponds so closely to Pliny NH 26.103 that both authors evidently drew on a shared pharmacognostic tradition. The curly-leafed Cretan type is the most plausible *Roccella* candidate in both authors; identification CONTESTED (Kok 1966 p. 249–252). Beck's translation (Olms-Weidmann, *Altertumswissenschaftliche Texte und Studien* 38) is the only complete modern English rendering, based on Wellmann's authoritative Greek edition (1906–1914); the Osbaldeston translation is open-access. Locally held: `research_documents/Dioscorides_DeMateriaMedica_Osbaldeston_2000.pdf`. Beck is a book (paywalled; WorldCat via Wellcome link below).
+
+<https://archive.org/details/dioscorides-de-materia-medica-2000-english>
+
+#### Vitruvius — *De Architectura* (c. 25 BCE), Book 7.13–14; trans. F. Granger, Loeb Classical Library 251 / 280
+
+Entered in the Historical and Economic Context section below; cross-reference here. Book 7, Chapter 13 describes murex-purple extraction and *purpurissum* pigment; Chapter 14 ("Substitutes for Purple") mentions dyeing chalk with madder and *hysginum*, and an "excellent purple" from *vaccinium* mixed with milk. No lichen or *phycos* reference appears in the surviving text. Relevant for the wider substitute-purple economy rather than orchil specifically. Locally held Books 6–10: `research_documents/Vitruvius_Granger_Loeb_L280_books_6-10.pdf`; Books 1–5 archived at `.work/shellfish-context/Vitruvius_Granger_Loeb_L251_books_1-5.pdf`.
+
+<https://penelope.uchicago.edu/Thayer/e/roman/texts/vitruvius/7*.html>
+
+---
+
+### Greek craft / alchemical recipe papyri
+
+#### Stockholm Papyrus (*Papyrus Graecus Holmiensis*, 3rd–4th c. CE) — Recipes S108–S110; ed. Halleux 1981 (Budé); Jensen 2008 (UC OA)
+
+**THE ancient orchil recipe source, and the single most important text in this corpus for establishing that lichen purple was an explicit commercial product in the Roman period.** Recipe **S109** ("Dyeing in Phoenician Colour with Archil"): wool is pre-treated with ash, mordanted with alum in salt water, then cooked with three times the weight of *archil* (orchil) in rainwater; goat's milk is poured in and stirred; wool is immersed until saturated, then rinsed and dried away from smoke. This is the recipe experimentally reconstructed in Whitworth, Chen & Smith (2025). The dye is explicitly called "Phoenician colour" — equating lichen purple with the prestige register of Tyrian shellfish purple. Recipe **S110** ("Dyeing in Bright Red Purple"): grind archil, take 5 cyathi of the juice per mina of wool; for a brighter tint add natron; for still brighter, chalcanthum (copper sulphate). **The papyrus uses the Greek word *archil* (ἀρχίλ)** — a commercial trade term unambiguously denoting lichen orchil, distinct from the classical *phykos* — making this the earliest surviving datable use of an "orchil"-type word and the ONLY ancient source to use a term unambiguously referring to lichen orchil. No seaweed alternative produces orcein chromophores; the orchil identification is chemically confirmed by Whitworth et al. (2025). Critical edition: Halleux, R. *Les Alchimistes grecs*, Tome I: *Papyrus de Leyde, Papyrus de Stockholm, Fragments de recettes*. Paris: Les Belles Lettres (Budé), 1981 (OCLC 7742382). Partial English translation: Caley, E. R. *Journal of Chemical Education* 4(8):979 (1927). Locally held: `research_documents/Jensen_2008_Leyden_Stockholm_papyri.pdf` (Jensen 2008, UC OA).
+
+<https://homepages.uc.edu/~jensenwb/books/Leyden%20&%20Stockholm%20Papyri.pdf>
+
+#### Leyden Papyrus X (*Papyrus Graecus Leidensis X*, 3rd–4th c. CE) — Recipe §95; co-ed. Halleux 1981; Jensen 2008
+
+Co-edited with the Stockholm Papyrus in Halleux 1981 (same Budé volume); partial English translation: Caley, E. R. *Journal of Chemical Education* 3(10):1149 (1926). Contains 111 recipes for imitation gold, silver, precious stones, and purple dyes. **Recipe §95** ("The Preparation of Purple"): "Break into small pieces stone of Phrygia [a mordant]; put it to boiling, and having immersed the wool, leave it until it cools. Then throwing in the vessel a mina of *seaweed* [Greek: *phykos*], put it to boiling and throw in again a mina of *seaweed*... throw in the water an imperceptible quantity of copperas, in order to develop the purple." **Identification AMBIGUOUS.** Unlike the Stockholm Papyrus, the Leyden Papyrus does not use the word *archil*; the *phykos* of §95 could be a red alga (*Porphyra* or similar Rhodophyta, which yield reddish-purple tints) or a lichen. The copperas (iron sulphate) colour-developer step is consistent with a polyphenol-based dye substrate but is not characteristic of orchil/orcein chemistry; Halleux (1981) flags the ambiguity. **Do not assert "orchil" for this recipe without qualification.** Adjacent recipes (§96 onward) use alkanet, walnuts, and gall-nuts for purple imitation — plant dyes, not lichen. Locally held: `research_documents/Jensen_2008_Leyden_Stockholm_papyri.pdf`; Wikisource transcription open.
+
+<https://en.wikisource.org/wiki/Leyden_Papyrus_X>
+
+#### Pseudo-Democritus — *Physika kai Mystika* (1st c. CE or earlier; Byzantine transmission); ed. Martelli 2011; trans. Martelli 2014
+
+Attributed in later alchemical tradition to Democritus of Abdera; probable 1st–2nd c. CE Egyptian Greek origin; transmitted through Byzantine alchemical manuscripts. Organised in four books covering production of gold, silver, precious stones, and the purple-dyeing of wool. Modern critical edition: Martelli, M. *Pseudo-Democrito: Scritti alchemici con il commentario di Sinesio*. Paris–Milan: S.É.H.A.–Archè, 2011. English translation with commentary: Martelli, M. *The Four Books of Pseudo-Democritus*. Leeds: Maney / SHAC, 2014 (ISBN 9781909662179). The purple-dyeing book is one of the earliest surviving examples of Roman-period written dye technology. **UNCONFIRMED:** whether any specific recipe in the purple-dyeing section uses orchil or lichen has not been established in the secondary literature consulted for this survey. Flag as requiring Martelli 2011 direct consultation before any orchil claim is made. Not in corpus; Martelli editions are paywalled books.
+
+<https://dacalbo.hpdst.gr/sites/dacalbo.hpdst.gr/files/Pseudo-Democritus%20Martelli.pdf>
+
+---
+
+### Late-antique and early-medieval sources
+
+#### Cassiodorus — *Variae* (c. 537 CE), Book I Letter 2; ed. Mommsen (MGH 1894); trans. Hodgkin 1886 / Bjornlie 2019
+
+*Variae* I.2 is a directive from Cassiodorus (writing in the voice of King Theodoric) to one Theon concerning a delayed shipment of royal garments dyed with imperial *purpura* from workshops at Hydruntum (Otranto). The letter elaborates the natural history of murex and the prestige of shellfish-derived purple. **NEGATIVE FINDING: the purple described is murex-only; no orchil, *phycos*, or lichen reference appears.** Relevant as late-antique confirmation that the Gothic court at Ravenna maintained the Roman imperial tradition of shellfish-purple vestments — the prestige backdrop against which orchil's use as a substitute (documented in the Vienna Genesis, Codex Rossanensis) should be understood. Critical edition: Mommsen, T. (ed.). MGH, Auctores Antiquissimi 12. Berlin, 1894. Complete English translation: Bjornlie, M. S. *Cassiodorus: The Variae*. Oakland: UC Press, 2019 (paywalled). Partial translation (locally held): `research_documents/Cassiodorus_Variae_Hodgkin_1886_IA.pdf` (Hodgkin 1886).
+
+<https://www.gutenberg.org/files/18590/18590-h/18590-h.htm>
+
+#### Isidore of Seville — *Etymologiae* (c. 615–636 CE), Book 19.28 (*De coloribus vestium*); ed. Lindsay (OCT 1911); trans. Barney et al. (2006)
+
+*Etymologiae* 19.28 "On the Colours of Garments" defines *tinctura* (dye), *kokkos* / *vermiculus* (kermes), *conchylium* / *ostrum* (shellfish purple from sea-shells), and *purpura* (purple named "from the purity of light"). **NEGATIVE FINDING: no mention of *fucus*, orchil, lichen, *phycos*, or plant-derived purple substitutes appears in 19.28.** Isidore's garment-colour chapter is entirely murex- and kermes-centred. Book 17 (*De Agricultura*) may contain plant-dye terminology but no orchil passage has been identified in secondary literature. Useful for closing the search space: the *phycos/fucus* tradition documented in Pliny and Dioscorides did not survive into Isidore's early-medieval encyclopaedia. Latin text: Lindsay, W. M. (ed.). OCT, 1911; open via LacusCurtius (link below). English: Barney, S. A. et al. Cambridge UP, 2006 (ISBN 9780521145916; paywalled).
+
+<http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Isidore/19*.html>
+
+#### Mappae Clavicula (earliest surviving MS c. 8th–9th c. CE); trans. Smith & Hawthorne 1974 (*Trans. Am. Philos. Soc.* 64(4))
+
+A miscellany of practical craft recipes on pigments, metals, dyes, and related arts; the earliest complete manuscript dates to the 9th century, but the recipes incorporate older Roman-era traditions, functioning as a bridge document between the papyrus recipe-book tradition and the medieval West. Scholars working on the *Compositiones Lucenses* / *Mappae Clavicula* tradition have identified recipes for plant- and lichen-based purple imitation; recipe numbers around 127–130 in the Smith & Hawthorne translation are cited in the secondary dye literature as probable orchil entries — but the exact recipe texts could not be quoted for this survey without direct access to Smith & Hawthorne 1974. **Flag as PROBABLE lichen but requires specialist consultation before citing a specific recipe as orchil.** Standard translation: Smith, C. S. & Hawthorne, J. G. *Transactions of the American Philosophical Society* 64(4):1–128, 1974 (JSTOR for subscribing institutions; Smithsonian catalog link below). Falls outside the strict classical scope of this survey but is the key bridge to medieval orchil continuity.
+
+<https://www.si.edu/object/mappae-clavicula-little-key-world-medieval-techniques-edited-and-translated-cyril-stanley-smith-and:siris_sil_48398>
+
+---
+
+### Context and negative-finding sources
+
+#### Pseudo-Aristotle — *De Coloribus* (c. 3rd c. BCE, Peripatetic school); trans. W. S. Hett, Loeb Classical Library 307 (1936)
+
+A systematic treatise on the physics of colour perception and colour mixing. Section 4 states "purple [comes] from the murex" and gives a process description of extracting the shellfish's hypobranchial fluid. **NEGATIVE FINDING: there is no mention of lichen, *phycos*, *fucus*, or any plant-derived purple substitute in *De Coloribus*.** The work is a theoretical colour treatise, not a practical dye manual; its purple account is shellfish-centred throughout. Useful for establishing the contrast between ancient colour theory (murex-only) and the commercial dye practice documented in the papyri. Locally held: `research_documents/PseudoAristotle_De_Coloribus_Loeb_L307.pdf`. Open via LacusCurtius/Penelope.
+
+<https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Aristotle/de_Coloribus*.html>
+
+#### Strabo — *Geography* (c. 7 BCE – 23 CE); trans. H. L. Jones, Loeb Classical Library (8 vols.)
+
+*Geography* 17.3 describes murex-processing workshops at Mogador (Iles Purpuraires, Atlantic coast of Mauretania), established by Juba II; the islands are named *Purpurariae* for their shellfish-purple industry. Books 3 (Spain/Atlantic coasts) and 14 (Asia Minor/Levant) contain no identified orchil or *phycos* passage in secondary literature. **NEGATIVE FINDING for orchil; no lichen passage identified.** Relevant as background on the purple-industry geography — particularly the Atlantic Macaronesian trade zone — against which later orchil commerce (which Kok 1966 traces to the same region) developed. No local copy held.
+
+<https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html>
+
+#### Achilles Tatius — *Leucippe and Clitophon* (2nd c. CE), 2.11.4–8; trans. S. Gaselee, Loeb Classical Library 45 (1969)
+
+Section 2.11.4–8 contains the shepherd's-dog aetiological myth for the discovery of Tyrian purple: a shepherd's dog bites a murex shell on the beach, and the shepherd's hands turn purple. Explicitly a myth about **shellfish (murex) purple** at Tyre; no orchil or lichen component. **Scope-adjacent; no orchil.** Useful for contextualising the Greek literary tradition of purple-dye discourse and demonstrating that murex (not lichen) was the prestige focus in Greek romances of the Roman period. Locally held: `research_documents/AchillesTatius_Leucippe_Clitophon_Loeb_L045.pdf`.
+
+<https://archive.org/details/L045AchillesTatiusLeucippeClitophon>
 
 ---
 
