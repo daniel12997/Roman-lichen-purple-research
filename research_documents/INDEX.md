@@ -23,7 +23,7 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 
 ---
 
-## Downloaded — lichen-primary / cited in final document (34)
+## Downloaded — lichen-primary / cited in final document (35)
 
 | File | Citation | Access |
 |---|---|---|
@@ -59,6 +59,7 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 | `MoulheratSpantidaki_2011_PV3_Vindolanda_textiles.pdf` | Moulherat, C., Spantidaki, Y. (2011). Vindolanda and its textiles: Gavvo and his *tosseae*. In *Purpureae Vestes III*: 69–93. | Academia.edu-gated; user-provided copy 2026-04-22. |
 | `Huneck_Yoshimura_1996_Springer_Identification_Lichen_Substances.pdf` | Huneck, S., Yoshimura, I. (1996). *Identification of Lichen Substances.* Springer, Berlin/Heidelberg. 493 pp. ISBN 978-3-540-60811-0. DOI 10.1007/978-3-642-85243-5. | Paywalled original; user-provided copy 2026-04-22 (Anna's Archive mirror). Standard reference volume for lichen secondary metabolite identification; includes orchil-related compounds. |
 | `Sanyova_2008_DHA21_spectroscopic_studies_anthraquinone_aluminium_complexes.pdf` | Sanyova, J. (2008). Spectroscopic Studies (FTIR, SIMS, ES-MS) on the Structure of Anthraquinone–Aluminium Complexes. In Kirby, J. (ed.), *Dyes in History and Archaeology 21* (papers from the Avignon meeting, 10–12 Oct 2002). Archetype Publications, London, pp. 209–214. | DHA 21 conference proceedings — madder-lake chemistry (anthraquinone/alizarin–aluminium complex structure); scope-adjacent (not orchil, but directly relevant to lake-pigment identification methodology used in the same analytical tradition). User-provided 2026-04-22. |
+| `Wouters_2008_DHA21_Roman_Eastern_Desert_dyes.pdf` | Wouters, J., Vanden Berghe, I., Richard, G., Breniaux, R., Cardon, D. (2008). Dye analysis of selected textiles from three Roman sites in the Eastern desert of Egypt: A hypothesis on the dyeing technology in Roman and Coptic Egypt. *Dyes in History and Archaeology* 21:1–16. | **Paywalled original; user-provided scan 2026-04-23.** OCR'd with ocrmypdf (`--deskew --rotate-pages --clean`); output is PDF/A-2B with searchable text layer. Some adjacent-page bleed-through remains at page margins — text layer is readable but not publication-clean. **Load-bearing:** cited in Summary §"Roman-period textile evidence" paired with De Moor 2010 for the 1st–5th c. madder+indigo "false purple" pattern, and in the *purpura alia* glossary entry. |
 
 ## Not Downloaded — Paywalled / No Open Copy Found
 
@@ -66,7 +67,6 @@ All sources cited in the deliverable that are not held as local PDFs. Per-paper 
 
 | Citation | URL | Status |
 |---|---|---|
-| Wouters, J., Vanden Berghe, I., Richard, G., Breniaux, R., Cardon, D. (2008). Dye analysis of selected textiles from three Roman sites in the Eastern desert of Egypt. *Dyes in History and Archaeology* 21:1–16. | <https://shs.hal.science/halshs-00369852> | HAL-SHS Anubis JS challenge blocks non-browser clients; preprint landing-page-only. DHA 21 proceedings published by Archetype (paywalled). **Load-bearing:** cited in Summary §"Roman-period textile evidence" paired with De Moor 2010 for the 1st–5th c. madder+indigo "false purple" pattern, and in the *purpura alia* glossary entry. |
 | Tehler et al. 2010, Old World Roccella, *Syst. Biodivers.* 8(2):223–246. | <https://doi.org/10.1080/14772001003789554> | T&F paywall |
 | Ertz et al. 2014, Phylogenetic revision of Roccellaceae, *Fungal Divers.* 70:31–53. | <https://doi.org/10.1007/s13225-014-0286-5> | Springer paywall |
 | Grierson, Duff, Sinclair 1985a, Colour/fastness Scottish Highlands dyes, *JSDC* 101(7-8):220–228. | <https://doi.org/10.1111/j.1478-4408.1985.tb01026.x> | Wiley paywall |
