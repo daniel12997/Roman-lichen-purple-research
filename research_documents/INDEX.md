@@ -23,6 +23,19 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 
 ---
 
+## Ancient Sources (cited but not downloaded)
+
+Ancient sources referenced in the deliverable's Primary Ancient Texts section (expanded Stage 11b) that are not held as local PDFs.
+
+| Citation | Edition / URL | Status |
+|---|---|---|
+| Strabo, *Geography* (c. 7 BCE – 23 CE). Loeb Classical Library 49–267 (8 vols., H. L. Jones trans., 1917–1932). Book 3 (Iberia), Book 14 (Asia Minor), Book 17.3 (Mogador/Iles Purpuraires). | <https://archive.org/details/geographyofstrab01stra> (IA public-domain Loeb vol. 1; other volumes discoverable via archive.org search "Strabo Loeb") · Perseus Greek/English: <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0198> | Negative finding (murex geography only; no orchil / *phycos* passage). Cited in Primary Ancient Texts. Not downloaded. |
+| Isidore of Seville, *Etymologiae* (c. 625 CE) Book 19.28 "De coloribus vestium"; Book 17 on plants. Critical edition: Lindsay, W. M. (ed.), *Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX*, 2 vols., Oxford Classical Text, 1911. English: Barney et al. trans. (2006), CUP. | <https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Isidore/19*.html> (LacusCurtius Latin; no PDF) · <https://www.thelatinlibrary.com/isidore.html> | Negative finding (murex/kermes terminology only; no *fucus*/*phycos* passage). Cited in Primary Ancient Texts. No open PDF; browse Latin HTML at LacusCurtius. |
+| Pseudo-Democritus, *Physika kai Mystika* (1st c. CE or earlier; composite text transmitted through Byzantine alchemical manuscripts). Critical edition: Martelli, M. (ed. and trans.) (2011). *Pseudo-Democrito: Scritti alchemici con il commentario di Sinesio.* Paris–Milan: S.É.H.A.–Archè. English: Martelli (2014), *The Four Books of Pseudo-Democritus*, Leeds: Maney/SHAC. | <https://search.worldcat.org/title/Pseudo-Democrito-scritti-alchemici/oclc/795754725> (WorldCat; Martelli 2011 edition) · <https://shs.hal.science/halshs-01398820> (Martelli background paper, HAL) | Cited as UNCONFIRMED — contains purple-dyeing recipes but direct orchil content unconfirmed without Martelli's critical apparatus. No open PDF; book-only. |
+| *Mappae Clavicula* (earliest surviving MS c. 8th–9th c. CE, with inherited Roman-era material). Smith, C. S. & Hawthorne, J. G. (trans. and comm.) (1974). "Mappae Clavicula: A Little Key to the World of Medieval Techniques." *Transactions of the American Philosophical Society* 64(4):1–128. | <https://www.jstor.org/stable/1006317> (JSTOR paywalled) · <https://www.si.edu/object/siris_sil_48398> (Smithsonian catalog entry) | Cited as probable lichen-purple recipes ~127–130 but details require Smith & Hawthorne 1974 direct consultation. JSTOR-paywalled; no open copy located. |
+
+---
+
 ## Downloaded — lichen-primary / cited in final document (34)
 
 | File | Citation | Access |
@@ -66,6 +79,7 @@ These are cited in the final document but no open-access PDF was available. Per-
 
 | Citation | URL | Status |
 |---|---|---|
+| Wouters, J., Vanden Berghe, I., Richard, G., Breniaux, R., Cardon, D. (2008). Dye analysis of selected textiles from three Roman sites in the Eastern desert of Egypt. *Dyes in History and Archaeology* 21:1–16. | <https://shs.hal.science/halshs-00369852> | HAL-SHS Anubis JS challenge blocks non-browser clients; preprint landing-page-only. DHA 21 proceedings published by Archetype (paywalled). Load-bearing: cited in Summary §"Roman-period textile evidence" paired with De Moor 2010 for the 1st–5th c. madder+indigo "false purple" pattern, and in the *purpura alia* glossary entry. |
 | Tehler et al. 2010, Old World Roccella, *Syst. Biodivers.* 8(2):223–246. | <https://doi.org/10.1080/14772001003789554> | T&F paywall |
 | Ertz et al. 2014, Phylogenetic revision of Roccellaceae, *Fungal Divers.* 70:31–53. | <https://doi.org/10.1007/s13225-014-0286-5> | Springer paywall |
 | Grierson, Duff, Sinclair 1985a, Colour/fastness Scottish Highlands dyes, *JSDC* 101(7-8):220–228. | <https://doi.org/10.1111/j.1478-4408.1985.tb01026.x> | Wiley paywall |
