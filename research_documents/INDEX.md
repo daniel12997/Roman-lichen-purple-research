@@ -23,13 +23,13 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 
 ---
 
-## Downloaded — lichen-primary / cited in final document (30)
+## Downloaded — lichen-primary / cited in final document (34)
 
 | File | Citation | Access |
 |---|---|---|
 | `Aceto_2015_SAA_folium_orchil_diagnostic.pdf` | Aceto, M., Arrais, A., Marsano, F., Agostino, A., Fenoglio, G., Idone, A., Gulmini, M. (2015). A diagnostic study on folium and orchil dyes with non-invasive and micro-destructive methods. *Spectrochim. Acta A* 142:159–168. | Open (IRIS UniTO / AperTO preprint bitstream; manuscript draft, 33 pp; DOI 10.1016/j.saa.2015.02.001). Downloaded 2026-04-22 via stage-6 deep search. |
 | `Bicchieri_2014_ESPR_Codex_Rossanensis.pdf` | Bicchieri, M., Monti, M., Piantanida, G., Sodo, A. (2014). The Purple Codex Rossanensis: spectroscopic characterisation and first evidence of the use of the elderberry lake in a sixth century manuscript. *Env. Sci. & Pollution Res.* 21(24):14146–14157. | Open (arXiv preprint 1404.6414) |
-| `Ferreira_2004_ChemSocRev_natural_constituents_historical_dyes.pdf` | Ferreira, E. S. B., Hulme, A. N., McNab, H., Quye, A. (2004). The natural constituents of historical textile dyes. *Chemical Society Reviews* 33(6):329–336. | Open (Univ. Glasgow Enlighten). **NOTE (confirmed stage-6):** Glasgow Enlighten record 109139 is correctly catalogued for this article (DOI 10.1039/B305697J), but the attached file 109148.pdf is a *different* paper — Hulme, McNab, Peggie, Quye, "Application of LC-MS for yellow flavonoid dyes" (conference proceedings, same authorship group). The CSR review text itself remains unobtainable as an open PDF; the local file is the Hulme et al. flavonoid proceedings. Do not cite the local file as Ferreira 2004 until the correct PDF is obtained. |
+| `Ferreira_2004_ChemSocRev_natural_constituents_historical_dyes.pdf` | Ferreira, E. S. B., Hulme, A. N., McNab, H., Quye, A. (2004). The natural constituents of historical textile dyes. *Chemical Society Reviews* 33(6):329–336. DOI 10.1039/b305697j. | Open — correct CSR review obtained 2026-04-22 via user provision. (Previous local file was a mismatched Hulme et al. flavonoid conference paper; replaced 2026-04-22.) RSC paywalled; user-provided copy is the published article. |
 | `Frezza_2024_Pharmaceutics_Roccella_tinctoria.pdf` | Frezza, C., et al. (2024). Evaluation of the Antifungal and Antiproliferative Properties of the Lichen *Roccella tinctoria* DC. *Pharmaceutics* 16(3):331. | Open (MDPI CC BY) |
 | `Hofmann_Aceto_2020_Vienna_Genesis_OAPEN.pdf` | Hofmann, C., et al. (2020). *The Vienna Genesis: Material Analysis and Conservation of a Late Antique Illuminated Manuscript on Purple Parchment.* Böhlau Verlag. (Contains Aceto et al. chapters on purple dye.) | Open (CC BY via OAPEN / Internet Archive) |
 | `Lackner_2024_Heritage_lichen_tapestry.pdf` | Lackner, S., Ferron, S., Boustie, J., Le Devehat, F., Lumbsch, H. T., Shibayama, N. (2024). Unraveling a Historical Mystery: Identification of a Lichen Dye Source in a Fifteenth Century Medieval Tapestry. *Heritage* 7(5):112. | Open (MDPI CC BY) |
@@ -57,6 +57,8 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 | `Tehler_2009_SystBiodivers_American_Roccella.pdf` | Tehler, A., Sparrius, L. B., Feige, G. B. (2009). American *Roccella* — a new survey. *Syst. Biodivers.* 7(3):307–317. DOI 10.1017/S1477200009990065. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
 | `Roca_2026_SSRN_orcein_Part_B.pdf` | Roca et al. (2026). Unravelling orcein dye Part B. SSRN preprint. DOI 10.2139/ssrn.6389507. **Not peer-reviewed; preprint only.** | SSRN preprint; user-provided copy 2026-04-22. |
 | `MoulheratSpantidaki_2011_PV3_Vindolanda_textiles.pdf` | Moulherat, C., Spantidaki, Y. (2011). Vindolanda and its textiles: Gavvo and his *tosseae*. In *Purpureae Vestes III*: 69–93. | Academia.edu-gated; user-provided copy 2026-04-22. |
+| `Huneck_Yoshimura_1996_Springer_Identification_Lichen_Substances.pdf` | Huneck, S., Yoshimura, I. (1996). *Identification of Lichen Substances.* Springer, Berlin/Heidelberg. 493 pp. ISBN 978-3-540-60811-0. DOI 10.1007/978-3-642-85243-5. | Paywalled original; user-provided copy 2026-04-22 (Anna's Archive mirror). Standard reference volume for lichen secondary metabolite identification; includes orchil-related compounds. |
+| `Sanyova_2008_DHA21_spectroscopic_studies_anthraquinone_aluminium_complexes.pdf` | Sanyova, J. (2008). Spectroscopic Studies (FTIR, SIMS, ES-MS) on the Structure of Anthraquinone–Aluminium Complexes. In Kirby, J. (ed.), *Dyes in History and Archaeology 21* (papers from the Avignon meeting, 10–12 Oct 2002). Archetype Publications, London, pp. 209–214. | DHA 21 conference proceedings — madder-lake chemistry (anthraquinone/alizarin–aluminium complex structure); scope-adjacent (not orchil, but directly relevant to lake-pigment identification methodology used in the same analytical tradition). User-provided 2026-04-22. |
 
 ## Not Downloaded — Paywalled / Book / No Open Copy Found (lichen-relevant)
 
@@ -77,7 +79,6 @@ These are cited in the final document but no open-access PDF was available. Per-
 |---|---|---|
 | Cardon 2007, *Natural Dyes.* Archetype Publications. | <https://archetype.co.uk/our-titles/natural-dyes/> · <https://search.worldcat.org/title/154715475> | Book |
 | Hofenk de Graaff et al. 2004, *The Colourful Past.* Archetype/Abegg. | <https://search.worldcat.org/oclc/56407013> | Book |
-| Huneck & Yoshimura 1996, *Identification of Lichen Substances.* Springer. | <https://doi.org/10.1007/978-3-642-85243-5> · <https://link.springer.com/book/10.1007/978-3-642-85243-5> | Book |
 | Casselman 2001, *Lichen Dyes.* Dover. | <https://openlibrary.org/books/OL7638137M/Lichen_Dyes> | Book (practitioner — flag) |
 | Bolton 1960, *Lichens for Vegetable Dyeing.* Studio Vista. | <https://search.worldcat.org/title/lichens-for-vegetable-dyeing/oclc/25709881> | Book (practitioner — flag; pre-Musso chemistry) |
 | Grierson 1986, *The Colour Cauldron.* Mill Books. | <https://www.librarything.com/work/10168014> | Book |
@@ -108,6 +109,17 @@ Moved to `../.work/shellfish-context/` during the 2026-04-22 rescope. These were
   Vitruvius_Granger_Loeb_L251_books_1-5.pdf
 ```
 
+## Book reviews (supplementary)
+
+Short review articles that provide useful entry-points to major reference volumes. Not primary research; included as proxies where the reviewed book is otherwise inaccessible or to supplement existing holdings.
+
+| File | Citation | Notes |
+|---|---|---|
+| `Harborne_1997_Phytochemistry_review_Huneck_Yoshimura.pdf` | Harborne, J. B. (1997). [Review of] Huneck, S., Yoshimura, I., *Identification of Lichen Substances.* Springer, 1996. *Phytochemistry* 45(5):1095–1096. DOI 10.1016/S0031-9422(97)82712-4. | 2-page review of the Huneck & Yoshimura volume (now also downloaded in full). Useful concise summary of the reference volume's scope and utility. User-provided 2026-04-22 (Anna's Archive mirror). |
+| `Ballard_2007_StudConserv_review_Cardon.pdf` | Ballard, M. W. (2007). [Review of] Cardon, D., *Natural Dyes: Sources, Tradition, Technology and Science.* Archetype Publications, 2007. *Studies in Conservation* 52(4):318–319. DOI 10.1179/sic.2007.52.4.318. | Review of the Cardon 2007 monograph, which is otherwise inaccessible (not downloaded). Provides orientation to the book's scope and the reviewer's conservation-science perspective. Useful as a proxy for Cardon 2007 pending acquisition of the full volume. User-provided 2026-04-22 (Anna's Archive mirror). |
+
+---
+
 ## Museum / collection links (not documents)
 
 - British Museum — Roman & Late-Antique Textiles from Egypt: https://www.britishmuseum.org/collection/search
@@ -122,6 +134,6 @@ Moved to `../.work/shellfish-context/` during the 2026-04-22 rescope. These were
 - **Edelstein Center** (edelsteincenter.wordpress.com) hosts author-mirror PDFs of several otherwise-paywalled Koren papers — used for #10, #17, #18, #52.
 - **IRIS UniTO (AperTO) bitstream** — older papers (handle numbers below ~2318/200000) have publicly accessible /bitstream/ paths without authentication. Newer papers use /retrieve/ paths that require institutional CAS login. Aceto 2015 (handle 2318/156313) had a public bitstream; Aceto 2019 (2318/1697420) and Calà 2019 (2318/1884486) do not.
 - **IRIS UniPO (Universita del Piemonte Orientale)** — all /retrieve/ paths require institutional login; no public bitstreams found for Aceto group papers.
-- **Ferreira 2004 mismatch confirmed (stage-6)** — Glasgow Enlighten record 109139 is correctly catalogued for the CSR paper (DOI 10.1039/B305697J, authors Ferreira/Hulme/McNab/Quye 2004) but the attached file 109148.pdf is a *different* paper by a partly-overlapping author set (Hulme, McNab, Peggie, Quye, "LC-MS for yellow flavonoid dyes", conference proceedings ca. 2004). The CSR review has no open PDF copy findable by any tool tested; the RSC paywall remains. The local file contains the flavonoid conference paper.
+- **Ferreira 2004 resolved 2026-04-22** — the long-standing mismatch (stage-6 flag) is closed. User provided the correct *Chem. Soc. Rev.* 33(6):329–336 PDF directly; the wrong file (Hulme et al. flavonoid conference paper) has been replaced. Glasgow Enlighten record 109139 remains misconfigured upstream but is no longer a concern for this repo.
 - **DOI corrections applied 2026-04-21:** Calà 2019 (correct: 10.1016/j.microc.2019.104140); Aceto 2019 Mythic Dyes (correct: 10.1016/j.saa.2019.01.091). Zaffino 2016 removed entirely from the deliverable as an unverifiable citation — see PROGRESS.md and master-list entry #46.
 - **Stage-6 deep search report:** `../.work/stage6/deep-search-report.md`
