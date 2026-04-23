@@ -23,7 +23,7 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 
 ---
 
-## Downloaded — lichen-primary / cited in final document (13)
+## Downloaded — lichen-primary / cited in final document (30)
 
 | File | Citation | Access |
 |---|---|---|
@@ -40,6 +40,23 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 | `VerheckenLammens_2010_ATN51_Roman_tunics_purple.pdf` | Verhecken-Lammens, C., De Moor, A., Vanden Berghe, I. — companion papers on Roman linen tunics in *Archaeological Textiles Newsletter* 51 (2010). | Open (ATN full issue, atnfriends.com). Included as negative-result context: orchil conspicuously absent from this late-Roman Egyptian corpus. |
 | `Whitworth_2025_Heritage_milking_orchil.pdf` | Whitworth, I., Chen, V. J., Smith, G. D. (2025). Milking the Orchil. *Heritage* 8(7):272. | Open (MDPI CC BY) |
 | `Whitworth_Koren_2016_Ambix_Bedfords_Leeds.pdf` | Whitworth, I., Koren, Z. C. (2016). Orchil and Tyrian Purple: Two Centuries of Bedfords from Leeds. *Ambix* 63(3):244–267. | Open (Edelstein Center mirror; T&F paywalled) |
+| `WaltonTaylor_1983_TextileHistory_Vindolanda_dyes.pdf` | Walton, P., Taylor, G. W. (1983). The characterization of dyes in pre-Hadrianic textiles from Vindolanda. *Textile History* 14(2):115–124. DOI 10.1179/004049683793690552. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Wainwright_2003_BiotechHistochem_orcein_revealed.pdf` | Wainwright, I. N. M. (2003). Orcein: The traditional stain revealed. *Biotechnic & Histochem.* 78(6):285–287. DOI 10.1080/10520290410001671317. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Beecken_2003_BiotechHistochem_orcein_litmus_English.pdf` | Beecken, H., Gottschalk, E. M., zu Gutenberg, U., Kramer, H., Maier, D., Matthies, H., Musso, H., Rathjen, C., Zdrojewski, U. (2003). Orcein and litmus: English reprint. *Biotechnic & Histochem.* 78(6):289–302. DOI 10.1080/10520290410001671362. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Tehler_2003_Taxon_Roccella_phycopsis.pdf` | Tehler, A. (2003). *Roccella phycopsis* — the correct name for *Seirophora* (Nyl.) Coppins. *Taxon* 52(3):621. DOI 10.2307/3647467. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Beecken_1961_AngewChem_orcein_lackmus_German.pdf` | Beecken, H., et al. (1961). Orcein und Lackmus. *Angewandte Chemie* 73(20):665–673. DOI 10.1002/ange.19610732002. (German original; see `Beecken_2003_BiotechHistochem_orcein_litmus_English.pdf` for English reprint.) | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `TehlerIrestedt_2007_Cladistics_Roccellaceae_phylogeny.pdf` | Tehler, A., Irestedt, M. (2007). Parallel evolution of lichen growth forms in the family Roccellaceae (Arthoniales, Euascomycetes). *Cladistics* 23(5):432–454. DOI 10.1111/j.1096-0031.2007.00156.x. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Witkowski_2017_MicrochemJ_orcein_liturgical_paraments.pdf` | Witkowski, A., Smyk, B., Brudecki, M., Witkowski, B. (2017). Orcein and natural dyes in 14th–15th century liturgical paraments. *Microchem. J.* 133:370–379. DOI 10.1016/j.microc.2017.03.049. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Serafini_2018_MicrochemJ_orcein_lichen_species.pdf` | Serafini, M., et al. (2018). Orcein-dyed lichen species discrimination by HPLC-DAD-MS. *Microchem. J.* 138:447–456. DOI 10.1016/j.microc.2018.01.033. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Cala_2019_MicrochemJ_orchil_HPLC_MS.pdf` | Calà, E., et al. (2019). Towards the identification of lichen species in historical orchil dyes by HPLC-MS/MS. *Microchem. J.* 150:104140. DOI 10.1016/j.microc.2019.104140. **DOI corrected 2026-04-21** (prior entry 104081 resolved to an unrelated Argentine PAH paper; correct DOI confirmed via IRIS UniTO handle 2318/1884486). | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Doherty_2014_JRS_SERS_orchil_Roccella_Lasallia.pdf` | Doherty, B., et al. (2014). Surface-enhanced Raman scattering of orchil-dyed wool from *Roccella* and *Lasallia* species. *J. Raman Spectrosc.* 45(9):723–729. DOI 10.1002/jrs.4543. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Clementi_2006_SAA_fluorimetry_orcein.pdf` | Clementi, C., Doherty, B., Gentili, P. L., Miliani, C., Romani, A., Brunetti, B. G., Sgamellotti, A. (2006). Vibrational and electronic properties of painting binders investigated by EEM fluorimetry: orcein. *Spectrochim. Acta A* 64(4):906–912. DOI 10.1016/j.saa.2005.08.024. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Aceto_2019_SAA_mythic_dyes_codices.pdf` | Aceto, M., et al. (2019). Mythic dyes or mythic colour? The question of orchil purple in medieval manuscripts. *Spectrochim. Acta A* 215:133–141. DOI 10.1016/j.saa.2019.01.091. **DOI corrected 2026-04-21** (prior entry 10.1016/j.saa.2018.11.027 resolved to a ZnS quantum-dot paper; correct DOI confirmed via IRIS UniTO handle 2318/1697420). | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Kok_1966_Lichenologist_orchil_dyes_history.pdf` | Kok, A. (1966). A short history of the orchil dyes. *The Lichenologist* 3(2):248–272. DOI 10.1017/S002428296600029X. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Musso_1960_PlantaMed_orcein_lackmus.pdf` | Musso, H. (1960). Orcein- und Lackmusfarbstoffe. *Planta Medica* 8(4):432–446. DOI 10.1055/s-0028-1101580. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Tehler_2009_SystBiodivers_American_Roccella.pdf` | Tehler, A., Sparrius, L. B., Feige, G. B. (2009). American *Roccella* — a new survey. *Syst. Biodivers.* 7(3):307–317. DOI 10.1017/S1477200009990065. | **Paywalled original; author/library copy provided by user 2026-04-22 (Anna's Archive mirror).** |
+| `Roca_2026_SSRN_orcein_Part_B.pdf` | Roca et al. (2026). Unravelling orcein dye Part B. SSRN preprint. DOI 10.2139/ssrn.6389507. **Not peer-reviewed; preprint only.** | SSRN preprint; user-provided copy 2026-04-22. |
+| `MoulheratSpantidaki_2011_PV3_Vindolanda_textiles.pdf` | Moulherat, C., Spantidaki, Y. (2011). Vindolanda and its textiles: Gavvo and his *tosseae*. In *Purpureae Vestes III*: 69–93. | Academia.edu-gated; user-provided copy 2026-04-22. |
 
 ## Not Downloaded — Paywalled / Book / No Open Copy Found (lichen-relevant)
 
@@ -47,23 +64,7 @@ These are cited in the final document but no open-access PDF was available. Per-
 
 | Citation | URL | Status |
 |---|---|---|
-| Musso 1960, Orcein- und Lackmusfarbstoffe, *Planta Medica* 8(4):432–446. | <https://doi.org/10.1055/s-0028-1101580> | Thieme paywall |
-| Beecken et al. 1961 / 2003, Orcein and Litmus, *Angew. Chem.* 73(20):665–673 / *Biotechnic & Histochem.* 78(6):289–302. | <https://doi.org/10.1002/ange.19610732002> · <https://doi.org/10.1080/10520290410001671362> | Wiley paywall (German original) / T&F paywall (English reprint) |
-| Wainwright 2003, Orcein traditional stain, *Biotechnic & Histochem.* 78(6):285–287. | <https://doi.org/10.1080/10520290410001671317> | T&F paywall |
-| Clementi et al. 2006, In situ fluorimetry of orcein, *Spectrochim. Acta A* 64(4):906–912. | <https://doi.org/10.1016/j.saa.2005.08.024> | Elsevier paywall |
-| Doherty et al. 2014, SERS of orchil-dyed wool from Roccella/Lasallia, *J. Raman Spectrosc.* 45(9):723–729. | <https://doi.org/10.1002/jrs.4543> | Wiley paywall |
 | ~~Aceto et al. 2015~~ | ~~<https://doi.org/10.1016/j.saa.2015.02.001>~~ | **Downloaded** — moved to Downloaded table above (stage-6 deep search; IRIS UniTO AperTO preprint bitstream) |
-| Witkowski et al. 2017, Orcein & natural dyes in 14-15c liturgical paraments, *Microchem. J.* 133:370–379. | <https://doi.org/10.1016/j.microc.2017.03.049> | Elsevier paywall |
-| Serafini et al. 2018, Orcein-dyed lichen species discrimination, *Microchem. J.* 138:447–456. | <https://doi.org/10.1016/j.microc.2018.01.033> | Elsevier paywall |
-| Calà et al. 2019, Towards the identification of lichen species in historical orchil dyes by HPLC-MS/MS, *Microchem. J.* 150:104140. | <https://doi.org/10.1016/j.microc.2019.104140> | Elsevier paywall. DOI corrected 2026-04-21 (prior entry 104081 resolved to an unrelated Argentine PAH paper; correct DOI confirmed via IRIS UniTO handle 2318/1884486). |
-| Roca et al. 2026 preprint, Unravelling orcein dye Part B. | <https://doi.org/10.2139/ssrn.6389507> · <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6389507> | SSRN Cloudflare-walled to our client; flag as preprint, not peer-reviewed |
-| Kok 1966, A Short History of the Orchil Dyes, *The Lichenologist* 3(2):248–272. | <https://doi.org/10.1017/S002428296600029X> | CUP paywall |
-| Aceto et al. 2019, Mythic dyes or mythic colour? *Spectrochim. Acta A* 215:133–141. | <https://doi.org/10.1016/j.saa.2019.01.091> | Elsevier paywall. DOI corrected 2026-04-21 (prior entry 10.1016/j.saa.2018.11.027 resolved to a ZnS quantum-dot paper; correct DOI confirmed via IRIS UniTO handle 2318/1697420). |
-| Walton / Taylor 1983, Pre-Hadrianic Vindolanda textiles, *Textile History* 14(2):115–124. | <https://doi.org/10.1179/004049683793690552> | T&F paywall |
-| Moulherat & Spantidaki 2011, Vindolanda textiles — Gavvo and his tosseae, *Purpureae Vestes III*. | <https://www.academia.edu/10508372> | Academia.edu Cloudflare / login-walled |
-| Tehler 2003, *Roccella phycopsis* correct name, *Taxon* 52(3):621. | <https://doi.org/10.2307/3647467> | JSTOR paywall |
-| Tehler & Irestedt 2007, Parallel evolution in Roccellaceae, *Cladistics* 23(5):432–454. | <https://doi.org/10.1111/j.1096-0031.2007.00156.x> | Wiley paywall (Unpaywall-confirmed OA; fetch from residential / academic network) |
-| Tehler et al. 2009, American Roccella, *Syst. Biodivers.* 7(3):307–317. | <https://doi.org/10.1017/S1477200009990065> | T&F paywall |
 | Tehler et al. 2010, Old World Roccella, *Syst. Biodivers.* 8(2):223–246. | <https://doi.org/10.1080/14772001003789554> | T&F paywall |
 | Ertz et al. 2014, Phylogenetic revision of Roccellaceae, *Fungal Divers.* 70:31–53. | <https://doi.org/10.1007/s13225-014-0286-5> | Springer paywall |
 | Grierson, Duff, Sinclair 1985a, Colour/fastness Scottish Highlands dyes, *JSDC* 101(7-8):220–228. | <https://doi.org/10.1111/j.1478-4408.1985.tb01026.x> | Wiley paywall |
