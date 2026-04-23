@@ -23,19 +23,6 @@ Ten primary ancient sources downloaded as part of Stage 10. Files verified as va
 
 ---
 
-## Ancient Sources (cited but not downloaded)
-
-Ancient sources referenced in the deliverable's Primary Ancient Texts section (expanded Stage 11b) that are not held as local PDFs.
-
-| Citation | Edition / URL | Status |
-|---|---|---|
-| Strabo, *Geography* (c. 7 BCE – 23 CE). Loeb Classical Library 49–267 (8 vols., H. L. Jones trans., 1917–1932). Book 3 (Iberia), Book 14 (Asia Minor), Book 17.3 (Mogador/Iles Purpuraires). | <https://archive.org/details/geographyofstrab01stra> (IA public-domain Loeb vol. 1; other volumes discoverable via archive.org search "Strabo Loeb") · Perseus Greek/English: <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0198> | Negative finding (murex geography only; no orchil / *phycos* passage). Cited in Primary Ancient Texts. Not downloaded. |
-| Isidore of Seville, *Etymologiae* (c. 625 CE) Book 19.28 "De coloribus vestium"; Book 17 on plants. Critical edition: Lindsay, W. M. (ed.), *Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX*, 2 vols., Oxford Classical Text, 1911. English: Barney et al. trans. (2006), CUP. | <https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Isidore/19*.html> (LacusCurtius Latin; no PDF) · <https://www.thelatinlibrary.com/isidore.html> | Negative finding (murex/kermes terminology only; no *fucus*/*phycos* passage). Cited in Primary Ancient Texts. No open PDF; browse Latin HTML at LacusCurtius. |
-| Pseudo-Democritus, *Physika kai Mystika* (1st c. CE or earlier; composite text transmitted through Byzantine alchemical manuscripts). Critical edition: Martelli, M. (ed. and trans.) (2011). *Pseudo-Democrito: Scritti alchemici con il commentario di Sinesio.* Paris–Milan: S.É.H.A.–Archè. English: Martelli (2014), *The Four Books of Pseudo-Democritus*, Leeds: Maney/SHAC. | <https://search.worldcat.org/title/Pseudo-Democrito-scritti-alchemici/oclc/795754725> (WorldCat; Martelli 2011 edition) · <https://shs.hal.science/halshs-01398820> (Martelli background paper, HAL) | Cited as UNCONFIRMED — contains purple-dyeing recipes but direct orchil content unconfirmed without Martelli's critical apparatus. No open PDF; book-only. |
-| *Mappae Clavicula* (earliest surviving MS c. 8th–9th c. CE, with inherited Roman-era material). Smith, C. S. & Hawthorne, J. G. (trans. and comm.) (1974). "Mappae Clavicula: A Little Key to the World of Medieval Techniques." *Transactions of the American Philosophical Society* 64(4):1–128. | <https://www.jstor.org/stable/1006317> (JSTOR paywalled) · <https://www.si.edu/object/siris_sil_48398> (Smithsonian catalog entry) | Cited as probable lichen-purple recipes ~127–130 but details require Smith & Hawthorne 1974 direct consultation. JSTOR-paywalled; no open copy located. |
-
----
-
 ## Downloaded — lichen-primary / cited in final document (34)
 
 | File | Citation | Access |
@@ -73,19 +60,23 @@ Ancient sources referenced in the deliverable's Primary Ancient Texts section (e
 | `Huneck_Yoshimura_1996_Springer_Identification_Lichen_Substances.pdf` | Huneck, S., Yoshimura, I. (1996). *Identification of Lichen Substances.* Springer, Berlin/Heidelberg. 493 pp. ISBN 978-3-540-60811-0. DOI 10.1007/978-3-642-85243-5. | Paywalled original; user-provided copy 2026-04-22 (Anna's Archive mirror). Standard reference volume for lichen secondary metabolite identification; includes orchil-related compounds. |
 | `Sanyova_2008_DHA21_spectroscopic_studies_anthraquinone_aluminium_complexes.pdf` | Sanyova, J. (2008). Spectroscopic Studies (FTIR, SIMS, ES-MS) on the Structure of Anthraquinone–Aluminium Complexes. In Kirby, J. (ed.), *Dyes in History and Archaeology 21* (papers from the Avignon meeting, 10–12 Oct 2002). Archetype Publications, London, pp. 209–214. | DHA 21 conference proceedings — madder-lake chemistry (anthraquinone/alizarin–aluminium complex structure); scope-adjacent (not orchil, but directly relevant to lake-pigment identification methodology used in the same analytical tradition). User-provided 2026-04-22. |
 
-## Not Downloaded — Paywalled / Book / No Open Copy Found (lichen-relevant)
+## Not Downloaded — Paywalled / No Open Copy Found
 
-These are cited in the final document but no open-access PDF was available. Per-paper summaries at `../.work/stage4/*.md` worked from abstracts or publisher pages.
+All sources cited in the deliverable that are not held as local PDFs. Per-paper summaries at `../.work/stage4/*.md` worked from abstracts or publisher pages; for ancient sources the Stage 8 report at `../.work/stage8/primary-sources-report.md` has the passage-level analysis.
 
 | Citation | URL | Status |
 |---|---|---|
-| Wouters, J., Vanden Berghe, I., Richard, G., Breniaux, R., Cardon, D. (2008). Dye analysis of selected textiles from three Roman sites in the Eastern desert of Egypt. *Dyes in History and Archaeology* 21:1–16. | <https://shs.hal.science/halshs-00369852> | HAL-SHS Anubis JS challenge blocks non-browser clients; preprint landing-page-only. DHA 21 proceedings published by Archetype (paywalled). Load-bearing: cited in Summary §"Roman-period textile evidence" paired with De Moor 2010 for the 1st–5th c. madder+indigo "false purple" pattern, and in the *purpura alia* glossary entry. |
+| Wouters, J., Vanden Berghe, I., Richard, G., Breniaux, R., Cardon, D. (2008). Dye analysis of selected textiles from three Roman sites in the Eastern desert of Egypt. *Dyes in History and Archaeology* 21:1–16. | <https://shs.hal.science/halshs-00369852> | HAL-SHS Anubis JS challenge blocks non-browser clients; preprint landing-page-only. DHA 21 proceedings published by Archetype (paywalled). **Load-bearing:** cited in Summary §"Roman-period textile evidence" paired with De Moor 2010 for the 1st–5th c. madder+indigo "false purple" pattern, and in the *purpura alia* glossary entry. |
 | Tehler et al. 2010, Old World Roccella, *Syst. Biodivers.* 8(2):223–246. | <https://doi.org/10.1080/14772001003789554> | T&F paywall |
 | Ertz et al. 2014, Phylogenetic revision of Roccellaceae, *Fungal Divers.* 70:31–53. | <https://doi.org/10.1007/s13225-014-0286-5> | Springer paywall |
 | Grierson, Duff, Sinclair 1985a, Colour/fastness Scottish Highlands dyes, *JSDC* 101(7-8):220–228. | <https://doi.org/10.1111/j.1478-4408.1985.tb01026.x> | Wiley paywall |
 | Grierson, Duff, Sinclair 1985b, Natural Dyes of the Scottish Highlands, *Textile History* 16(1):23–43. | <https://doi.org/10.1179/004049685793701223> | T&F paywall |
 | Brough 1988, Navajo Lichen Dyes, *The Lichenologist* 20(3):279–290. | <https://doi.org/10.1017/S0024282988000313> | CUP paywall |
 | Graves 2017, What is the Madder with Lydia's Purple? *NEAS Bulletin* 62:3–28. | <https://www.academia.edu/35223743> | Academia.edu Cloudflare / login-walled |
+| Strabo, *Geography* (c. 7 BCE – 23 CE). Loeb Classical Library 49–267 (8 vols., H. L. Jones trans., 1917–1932). Book 3 (Iberia), Book 14 (Asia Minor), Book 17.3 (Mogador / Iles Purpuraires). | <https://archive.org/details/geographyofstrab01stra> (IA public-domain Loeb vol. 1; other volumes discoverable via archive.org) · <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0198> (Perseus Greek/English) | Ancient source. Negative finding (murex geography only; no orchil / *phycos* passage). Cited in Primary Ancient Texts. |
+| Isidore of Seville, *Etymologiae* (c. 625 CE) Book 19.28 "De coloribus vestium"; Book 17 on plants. Critical edition: Lindsay, W. M. (ed.), *Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX*, 2 vols., Oxford Classical Text, 1911. English: Barney et al. trans. (2006), CUP. | <https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Isidore/19*.html> (LacusCurtius Latin; no PDF) · <https://www.thelatinlibrary.com/isidore.html> | Ancient source. Negative finding (murex/kermes terminology only; no *fucus*/*phycos* passage). No open PDF; browse Latin HTML at LacusCurtius. |
+| Pseudo-Democritus, *Physika kai Mystika* (1st c. CE; composite text transmitted through Byzantine alchemical manuscripts). Martelli, M. (ed. and trans.) (2011). *Pseudo-Democrito: Scritti alchemici con il commentario di Sinesio.* Paris–Milan: S.É.H.A.–Archè. English: Martelli (2014), *The Four Books of Pseudo-Democritus*, Leeds: Maney/SHAC. | <https://search.worldcat.org/title/Pseudo-Democrito-scritti-alchemici/oclc/795754725> (WorldCat; Martelli 2011) · <https://shs.hal.science/halshs-01398820> (Martelli background paper, HAL) | Ancient source. Cited as UNCONFIRMED — contains purple-dyeing recipes but direct orchil content unconfirmed without Martelli's critical apparatus. No open PDF; book-only. |
+| *Mappae Clavicula* (earliest surviving MS c. 8th–9th c. CE, with inherited Roman-era material). Smith, C. S. & Hawthorne, J. G. (trans. and comm.) (1974). "Mappae Clavicula: A Little Key to the World of Medieval Techniques." *Transactions of the American Philosophical Society* 64(4):1–128. | <https://www.jstor.org/stable/1006317> (JSTOR paywalled) · <https://www.si.edu/object/siris_sil_48398> (Smithsonian catalog) | Medieval bridge document. Cited as probable lichen-purple recipes (~127–130) but details require Smith & Hawthorne 1974 direct consultation. JSTOR paywall. |
 
 ## Books (lichen-relevant; library or purchase)
 
