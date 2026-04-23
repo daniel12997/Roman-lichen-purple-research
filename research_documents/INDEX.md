@@ -64,7 +64,6 @@ These are cited in the final document but no open-access PDF was available. Per-
 
 | Citation | URL | Status |
 |---|---|---|
-| ~~Aceto et al. 2015~~ | ~~<https://doi.org/10.1016/j.saa.2015.02.001>~~ | **Downloaded** — moved to Downloaded table above (stage-6 deep search; IRIS UniTO AperTO preprint bitstream) |
 | Tehler et al. 2010, Old World Roccella, *Syst. Biodivers.* 8(2):223–246. | <https://doi.org/10.1080/14772001003789554> | T&F paywall |
 | Ertz et al. 2014, Phylogenetic revision of Roccellaceae, *Fungal Divers.* 70:31–53. | <https://doi.org/10.1007/s13225-014-0286-5> | Springer paywall |
 | Grierson, Duff, Sinclair 1985a, Colour/fastness Scottish Highlands dyes, *JSDC* 101(7-8):220–228. | <https://doi.org/10.1111/j.1478-4408.1985.tb01026.x> | Wiley paywall |
