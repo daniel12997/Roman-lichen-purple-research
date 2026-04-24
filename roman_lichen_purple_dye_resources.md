@@ -497,6 +497,6 @@ Selected terms drawn from the stage-4 summary files across the orchil corpus.
 
 ---
 
-*Compiled for Daniel Parker. All URLs verified at time of compilation. Open-access PDFs are in `research_documents/`; see `INDEX.md` there for what was downloaded versus paywalled.*
+*All URLs verified at time of compilation. PDFs are in `research_documents/`; see `INDEX.md` there for what was downloaded versus paywalled.*
 
-Several papers in the "Not Downloaded" category remain behind publisher paywalls from this compilation's network. Readers on academic or residential networks may be able to retrieve them via [Unpaywall](https://unpaywall.org) (browser extension) or by following direct publisher DOI links. As a confirmed example, Tehler & Irestedt (2007) — "Parallel evolution of lichen growth forms in the family Roccellaceae," *Cladistics* 23(5):432–454 — is Unpaywall-confirmed open access via Wiley, accessible to readers outside this network.
+Several papers in the "Not Downloaded" category remain behind publisher paywalls from this compilation's network. Readers on academic or residential networks may be able to retrieve them via [Unpaywall](https://unpaywall.org) (browser extension) or by following direct publisher DOI links.
